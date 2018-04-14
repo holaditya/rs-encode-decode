@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1470492502 source:c:\users\aditya\desktop\code block codes\rs_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ecc.h"
+
+1242258014 c:\users\aditya\desktop\code block codes\rs_2\ecc.h
+
+1242258014 source:c:\users\aditya\desktop\code block codes\rs_2\berlekamp.c
+	<stdio.h>
+	"ecc.h"
+
+1242258014 source:c:\users\aditya\desktop\code block codes\rs_2\crcgen.c
+	"ecc.h"
+
+1242258014 source:c:\users\aditya\desktop\code block codes\rs_2\example.c
+	<stdio.h>
+	<stdlib.h>
+	"ecc.h"
+
+1465415317 source:c:\users\aditya\desktop\code block codes\rs_2\galois.c
+	<stdio.h>
+	<stdlib.h>
+	"ecc.h"
+
+1242258014 source:c:\users\aditya\desktop\code block codes\rs_2\rs.c
+	<stdio.h>
+	<ctype.h>
+	"ecc.h"
+
